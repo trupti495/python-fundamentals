@@ -1,3 +1,4 @@
+# global variable and local variable
 globalvar = "hey"
 
 class Demo1:
